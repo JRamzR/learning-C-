@@ -10,3 +10,7 @@ string last = "What about you? ";
 string message = first + "," + last;
 Console.WriteLine(message);
 
+string name = "JR";
+Console.WriteLine($"Hey, {name}!");
+
+
