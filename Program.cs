@@ -16,5 +16,7 @@ Console.WriteLine($"Hey, {person}!");
 string name = Console.ReadLine();
 Console.WriteLine($"Hello, {name}! Nice to meet you too.");
 
+var isActive = true;
+Console.WriteLine(isActive);
 
 
