@@ -47,4 +47,7 @@ Console.WriteLine("Invoice: 1022\t\tComplete!");
 Console.Write("\nOutput Directory:\t");
 Console.WriteLine(@"c:\invoices");
 
-
+var numbers = "1, 2, 3, 4, 5";
+var classrooms = "English, Math, Science, History";
+var combined = "The numbers are: " + numbers + " " + classrooms;
+Console.WriteLine(combined);
